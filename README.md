@@ -3,7 +3,7 @@
 ## Problem Statement
 
 Imagine that you are walking down the street, and you notice that there's a
-mural that has been painted over with various graffiti tags. In reality
+mural that has been painted over with various graffiti tags. In reality submit
 cleaning this up could be a challenging feat; however, in CSS, you have power
 to manipulate the DOM with just a line or two of code and to restore the mural
 to its original look! In this lab, we've created a virtual wall. Using only
